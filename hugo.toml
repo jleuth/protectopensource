@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://protectopensource.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Protect Open Source - Empowering Creators, Protecting Open Source from Corporate Greed.'
 theme = "nightfall"
