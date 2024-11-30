@@ -1,0 +1,47 @@
+[module]
+  [module.hugoVersion]
+    min = "0.114.0"
+
+baseURL = 'https://oscsl.jleuthardt.com'
+languageCode = 'en-us'
+theme = "hugo-theme-nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "license"
+    weight = 0
+    url = "license"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+user = "oscsl"
+hostname = "protectopensource.org"
+  [params.author]
+    name = "Protect Open Source"  # Website and RSS feed author
+    email = "oscsl@jleuthardt.com"  # RSS feed email address
+
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/jleuth"
+target = "_blank"
+aria = "GitHub Profile"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://linkedin.com/in/leuth"
+aria = "LinkedIn Profile"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:me@jleuthardt.com"
+aria = "My e-Mail Address"

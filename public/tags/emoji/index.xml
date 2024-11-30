@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emoji on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/emoji/</link>
+    <description>Recent content in Emoji on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>oscsl@jleuthardt.com (Open Source Creator&#39;s Share Licence)</managingEditor>
+    <webMaster>oscsl@jleuthardt.com (Open Source Creator&#39;s Share Licence)</webMaster>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>oscsl@jleuthardt.com (Open Source Creator&#39;s Share Licence)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Open Source Creator&amp;rsquo;s Share License (OSCSL)&lt;/strong&gt; is a software License written by Jacob Leuthardt with the main purpose of adding a better way of commercialization to open source projects.&lt;/p&gt;&#xA;&lt;p&gt;The problem is, a &lt;em&gt;lot&lt;/em&gt; of people who contribute to or run open source projects want to, or at least the option to, commercialize the project if it blows up. But, most Licenses restrict how a project can be used commercially to two extremes: No commercial, or completely free commercial.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
